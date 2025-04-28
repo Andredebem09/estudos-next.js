@@ -10,6 +10,11 @@ export default function Home() {
             <main>
                 <h1>Olá, mundo!</h1>
                 <p>Esta é a minha primeira página usando Next.js.</p>
+
+                <p>ajustes de nomeclaturas.</p>
+
+
+
             </main>
         </>
     );
