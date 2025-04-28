@@ -13,6 +13,8 @@ export default function Home() {
 
                 <p>ajustes de nomeclaturas.</p>
 
+                <p>teste</p>
+
 
 
             </main>
